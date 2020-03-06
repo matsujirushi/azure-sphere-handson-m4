@@ -1,0 +1,12 @@
+{
+  "SchemaVersion": 1,
+  "Name": "Mailbox_RTApp",
+  "ComponentId": "0404a594-62bb-4fe6-b727-f387a6923ec7",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedApplicationConnections": [ "30942B31-D6BC-4463-8D9D-3FD2DEB77D05" ],
+    "Gpio": [ 12 ]
+  },
+  "ApplicationType": "RealTimeCapable"
+}

@@ -1,0 +1,11 @@
+{
+  "SchemaVersion": 1,
+  "Name": "Blink_RTApp",
+  "ComponentId": "697a2fb6-1a09-4cd7-a682-b7db26637006",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Gpio": [ 16 ]
+  },
+  "ApplicationType": "RealTimeCapable"
+}

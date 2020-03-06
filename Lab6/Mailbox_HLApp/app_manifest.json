@@ -1,0 +1,12 @@
+﻿{
+  "SchemaVersion": 1,
+  "Name": "Mailbox_HLApp",
+  "ComponentId": "30942b31-d6bc-4463-8d9d-3fd2deb77d05",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedApplicationConnections": [ "0404A594-62BB-4FE6-B727-F387A6923EC7" ],
+    "Gpio": []
+  },
+  "ApplicationType": "Default"
+}

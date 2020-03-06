@@ -1,0 +1,11 @@
+﻿{
+  "SchemaVersion": 1,
+  "Name": "Blink_HLApp",
+  "ComponentId": "3eb2149c-b1f4-4ec5-8509-409c2c0176b2",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Gpio": [ 10 ]
+  },
+  "ApplicationType": "Default"
+}
